@@ -1,0 +1,44 @@
+Pikachu,Electric,
+Raichu,Electric,
+Magnemite,Electric,Steel
+Magneton,Electric,Steel
+Voltorb,Electric,
+Electrode,Electric,
+Electabuzz,Electric,
+Jolteon,Electric,
+Zapdos,Electric,Flying
+Pichu,Electric,
+Mareep,Electric,
+Flaaffy,Electric,
+Ampharos,Electric,
+AmpharosMega Ampharos,Electric,Dragon
+Elekid,Electric,
+Raikou,Electric,
+Electrike,Electric,
+Manectric,Electric,
+ManectricMega Manectric,Electric,
+Plusle,Electric,
+Minun,Electric,
+Shinx,Electric,
+Luxio,Electric,
+Luxray,Electric,
+Pachirisu,Electric,
+Magnezone,Electric,Steel
+Electivire,Electric,
+Rotom,Electric,Ghost
+RotomHeat Rotom,Electric,Fire
+RotomWash Rotom,Electric,Water
+RotomFrost Rotom,Electric,Ice
+RotomFan Rotom,Electric,Flying
+RotomMow Rotom,Electric,Grass
+Blitzle,Electric,
+Zebstrika,Electric,
+Emolga,Electric,Flying
+Tynamo,Electric,
+Eelektrik,Electric,
+Eelektross,Electric,
+ThundurusIncarnate Forme,Electric,Flying
+ThundurusTherian Forme,Electric,Flying
+Helioptile,Electric,Normal
+Heliolisk,Electric,Normal
+Dedenne,Electric,Fairy
